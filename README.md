@@ -1,11 +1,6 @@
-Oficina Mecânica - Trabalho Prático de OO
+Repositório de Orientação a Objetos
+Bem-vindo ao repositório dedicado à disciplina de Orientação a Objetos. Aqui, você terá acesso a recursos, exemplos e, possivelmente, exercícios para aprimorar seu entendimento e prática dos conceitos essenciais de programação orientada a objetos.
 
-Introdução
-Este projeto é uma implementação em Java que utiliza conceitos fundamentais de Orientação a Objetos (OO) para modelar o funcionamento de uma oficina mecânica. O sistema permite gerenciar ordens de serviço, clientes, veículos, peças e serviços, aplicando encapsulamento, herança e polimorfismo.
-
-Membros do Grupo
-1. Thales Henrique Euflauzino dos Santos 
-2. Victor Hugo dos Santos Bernardes
-3. Manoela Silvestre Garcia Chaves
-4. Pedro Lopes da Cunha
-5. João Victor Tavares
+Conteúdo
+[Lista de Exercícios]: Encontre aqui uma lista de exercícios proposta pelo professor para consolidar o conteúdo.
+[Trabalho]: Este diretório contém o trabalho final da disciplina.
