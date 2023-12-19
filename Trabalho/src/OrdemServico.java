@@ -5,14 +5,10 @@ import javax.swing.JOptionPane;
 
 public class OrdemServico {
     static CadastroClientes cadastro = new CadastroClientes();
-    private static List<String> itensSelecionados;
+    private static List<String> itensSelecionados = new ArrayList<>();
     private String dataManutencao;
     private String servico, mecanicoResponsavel;
     private static int valorFinal;
-
-    public OrdemServico() {
-        this.itensSelecionados = new ArrayList<>();
-    }
 
     public void adicionarItem(Item item) {
         itensSelecionados.add(item.getDescricao());
